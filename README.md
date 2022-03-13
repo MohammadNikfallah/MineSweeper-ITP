@@ -1,8 +1,8 @@
-#MineSweeper - ITP project
+# MineSweeper - ITP project
 
 This is my completed source code of my ITP project.
 
-#What is MineSweeper
+# What is MineSweeper
 
 ![Minesweeper image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fminesweeper.online%2F&psig=AOvVaw0AVRR52pH2p-vTvTCBheh1&ust=1647274813411000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLjs_oO_w_YCFQAAAAAdAAAAABAD)
 [Minesweeper](https://en.wikipedia.org/wiki/Minesweeper_(video_game)) is a single-player puzzle game.
