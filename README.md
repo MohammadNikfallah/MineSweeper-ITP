@@ -5,6 +5,7 @@ This is my completed source code of my ITP project.
 # What is MineSweeper
 
 ![Minesweeper image](https://minesweeper.online/img/homepage/beginner.png)
+
 [Minesweeper](https://en.wikipedia.org/wiki/Minesweeper_(video_game)) is a single-player puzzle game.
 Minesweeper rules are very simple. 
 > The board is divided into cells, with mines randomly distributed.
