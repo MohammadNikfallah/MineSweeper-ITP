@@ -2,7 +2,7 @@
 
 This is my completed source code of my ITP project.
 
-# What is MineSweeper
+## What is MineSweeper
 
 ![Minesweeper image](https://double-helix.industries/images/reviews/minesweeper_title.jpg)
 
