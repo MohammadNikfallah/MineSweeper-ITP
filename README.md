@@ -13,6 +13,6 @@ Minesweeper rules are very simple.
 > Using this information, you can determine cells that are safe, and cells that contain mines.
 > Cells suspected of being mines can be marked with a flag
 
-# Supported systems
+## Supported systems
 All versions of Windows
 
